@@ -9,5 +9,6 @@ public class git {
         System.out.println("master.");
         System.out.println("fix.");
         System.out.println("remote test.");
+        System.out.println("ssh test.");
     }
 }
